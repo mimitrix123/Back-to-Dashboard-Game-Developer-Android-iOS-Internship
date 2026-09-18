@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+highscore.json
+android/.gradle/
+android/build/
+android/app/build/
