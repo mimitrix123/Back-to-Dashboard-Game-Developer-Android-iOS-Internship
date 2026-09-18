@@ -5,26 +5,18 @@ Build 2D/3D mobile games for Android and iOS using Unity and C#.
 ## Mini Projects
 
 ### Week 1 — Catch the Falling Objects
+A playable 2D Python/Pygame prototype with falling objects, collision detection, score tracking, and lives.
 
-A playable 2D prototype built with Python and Pygame.
-
-- Player moves left/right to catch falling objects.
-- Score is displayed on screen.
-- Missing 5 objects ends the game.
-- Press **R** to restart after game over.
-- Source: [week-1/catch-the-falling-objects](./week-1/catch-the-falling-objects)
+Source: [week-1/catch-the-falling-objects](./week-1/catch-the-falling-objects)
 
 ### Week 2 — Platformer Level
+A 2D platformer with jumping, moving platforms, collectible coins, a patrolling enemy, and a three-life system.
 
-A playable 2D platformer prototype built with Python and Pygame.
+Source: [week-2/platformer](./week-2/platformer)
 
-- Moving platforms
-- Collectible coins
-- Patrolling enemy
-- 3 player lives
-- Enemy contact costs one life and respawns the player
-- Falling off the level costs one life
-- Collect all coins to complete the level
-- Source: [week-2/platformer](./week-2/platformer)
+### Week 3 — Tilemap Adventure
+A complete single-level 2D game with a tilemap, collectible coins, a patrol enemy, a chase enemy, a locked door/finish point, three lives, and generated audio feedback for gameplay events.
+
+Source: [week-3/tilemap-adventure](./week-3/tilemap-adventure)
 
 See each project README for setup and controls.
