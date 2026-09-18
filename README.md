@@ -14,4 +14,17 @@ A playable 2D prototype built with Python and Pygame.
 - Press **R** to restart after game over.
 - Source: [week-1/catch-the-falling-objects](./week-1/catch-the-falling-objects)
 
-See the Week 1 project README for setup and controls.
+### Week 2 — Platformer Level
+
+A playable 2D platformer prototype built with Python and Pygame.
+
+- Moving platforms
+- Collectible coins
+- Patrolling enemy
+- 3 player lives
+- Enemy contact costs one life and respawns the player
+- Falling off the level costs one life
+- Collect all coins to complete the level
+- Source: [week-2/platformer](./week-2/platformer)
+
+See each project README for setup and controls.
